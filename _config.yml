@@ -26,7 +26,7 @@ url                      : "https://JeongHyupOH.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "JeongHyupOH/JeongHyupOH.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/white.png"
+logo                     : "/assets/images/white.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "JeongHyupOH"
-  avatar           : # path of avatar image, e.g. "/assets/images/white.png"
+  avatar           : "/assets/images/white.png"
   bio              : "GitHub.io Blog"
   location         : "Seoul, Korea"
   email            :
