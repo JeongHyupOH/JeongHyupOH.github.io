@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "JeongHyupOH"
-  avatar           : "/assets/images/white.png"
+  avatar           : # path of avatar image, e.g. "/assets/images/white.png"
   bio              : "GitHub.io Blog"
   location         : "Seoul, Korea"
   email            :
